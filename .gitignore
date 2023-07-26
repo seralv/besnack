@@ -1,0 +1,18 @@
+# Archivos generados automáticamente
+*.pyc
+*.pyo
+*.pyd
+
+# Directorios de configuración y entorno virtual
+env/
+__pycache__/
+
+# Archivos de registro
+*.log
+
+# Archivos locales de configuración
+settings_local.py
+
+# Otras configuraciones específicas del IDE
+.vscode/
+.idea/
